@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4930EC33-1721-447B-8DF3-047534ADD731"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1919FF1D-4EAB-464C-B270-6F3956B52847"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "populateOrders()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1919FF1D-4EAB-464C-B270-6F3956B52847 - 696085ae825e864d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CoffeOrderApp.Order&gt;, CoffeOrderApp.NetworkError&gt;) -&gt; () in CoffeOrderApp.OrdersTableViewController.(populateOrders in _CFF9D07FCCE029FD2B23C23FDD269F0A)() -&gt; ()"
+                  moduleName = "CoffeOrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecinar/personalprojects/iOSProgramming/CoffeOrderApp/CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "1919FF1D-4EAB-464C-B270-6F3956B52847 - 696085ae825e864d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CoffeOrderApp.Order&gt;, CoffeOrderApp.NetworkError&gt;) -&gt; () in CoffeOrderApp.OrdersTableViewController.(populateOrders in _CFF9D07FCCE029FD2B23C23FDD269F0A)() -&gt; ()"
+                  moduleName = "CoffeOrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecinar/personalprojects/iOSProgramming/CoffeOrderApp/CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D104AA8E-7553-4EE9-9F0D-FBBAB52A6F5F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "populateOrders()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9546EF17-6178-4C1D-A516-6A322D8B2AE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "populateOrders()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99227FC8-A2DF-4DF7-B718-E4A74C5D752D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "populateOrders()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "99227FC8-A2DF-4DF7-B718-E4A74C5D752D - 3d6d18fb8df126c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CoffeOrderApp.OrdersTableViewController.(populateOrders in _CFF9D07FCCE029FD2B23C23FDD269F0A)() -&gt; ()"
+                  moduleName = "CoffeOrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecinar/personalprojects/iOSProgramming/CoffeOrderApp/CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "99227FC8-A2DF-4DF7-B718-E4A74C5D752D - 696085ae825e864d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CoffeOrderApp.Order&gt;, CoffeOrderApp.NetworkError&gt;) -&gt; () in CoffeOrderApp.OrdersTableViewController.(populateOrders in _CFF9D07FCCE029FD2B23C23FDD269F0A)() -&gt; ()"
+                  moduleName = "CoffeOrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecinar/personalprojects/iOSProgramming/CoffeOrderApp/CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "97">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08DCE4B0-1D9A-4D8E-8242-1B3FD1AAB597"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "populateOrders()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08DCE4B0-1D9A-4D8E-8242-1B3FD1AAB597 - 696085ae825e864d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CoffeOrderApp.Order&gt;, CoffeOrderApp.NetworkError&gt;) -&gt; () in CoffeOrderApp.OrdersTableViewController.(populateOrders in _CFF9D07FCCE029FD2B23C23FDD269F0A)() -&gt; ()"
+                  moduleName = "CoffeOrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecinar/personalprojects/iOSProgramming/CoffeOrderApp/CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "97">
+               </Location>
+               <Location
+                  uuid = "08DCE4B0-1D9A-4D8E-8242-1B3FD1AAB597 - 696085ae825e864d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CoffeOrderApp.Order&gt;, CoffeOrderApp.NetworkError&gt;) -&gt; () in CoffeOrderApp.OrdersTableViewController.(populateOrders in _CFF9D07FCCE029FD2B23C23FDD269F0A)() -&gt; ()"
+                  moduleName = "CoffeOrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecinar/personalprojects/iOSProgramming/CoffeOrderApp/CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E5B6564-280F-4501-8EE4-59C0F27DDC62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "populateOrders()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8E5B6564-280F-4501-8EE4-59C0F27DDC62 - 696085ae825e866c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CoffeOrderApp.Order&gt;, CoffeOrderApp.NetworkError&gt;) -&gt; () in CoffeOrderApp.OrdersTableViewController.(populateOrders in _CFF9D07FCCE029FD2B23C23FDD269F0A)() -&gt; ()"
+                  moduleName = "CoffeOrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecinar/personalprojects/iOSProgramming/CoffeOrderApp/CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "8E5B6564-280F-4501-8EE4-59C0F27DDC62 - 606df87b74072ab4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 (CoffeOrderApp.Order) -&gt; CoffeOrderApp.OrderViewModel in closure #1 (Swift.Result&lt;Swift.Array&lt;CoffeOrderApp.Order&gt;, CoffeOrderApp.NetworkError&gt;) -&gt; () in CoffeOrderApp.OrdersTableViewController.(populateOrders in _CFF9D07FCCE029FD2B23C23FDD269F0A)() -&gt; ()"
+                  moduleName = "CoffeOrderApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ecinar/personalprojects/iOSProgramming/CoffeOrderApp/CoffeOrderApp/Controllers/OrdersTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
